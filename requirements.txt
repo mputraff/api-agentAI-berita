@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+newspaper3k
+google-cloud-aiplatform
+python-dotenv
